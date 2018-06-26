@@ -1,6 +1,6 @@
 # React and GraphQL Client
 
-Designed to work alongside the [graphql-express-server](graphql-express-server). This client displays the information retrieved from a GraphQL express server.
+Designed to work alongside the [graphql-express-server](graphql-express-server). This React Apollo client displays the information retrieved from a GraphQL express server. 
 
 Install dependencies:
 
