@@ -1,15 +1,12 @@
-# React and GraphQL Client
+# A very basic example of how to consume a GraphQL API in React
 
-Designed to work alongside the [graphql-express-server](graphql-express-server). This React Apollo client displays the information retrieved from a GraphQL express server. 
+This extremely basic React Apollo client displays information retrieved from a GraphQL express server. 
+Designed to work alongside the [graphql-express-server](https://github.com/krynv/graphql-express-server) application. 
 
-Install dependencies:
+## Run the application
 
-    npm i
+Make sure to have the latest [graphql-express-server](https://github.com/krynv/graphql-express-server) running locally on port `1337`.
 
-Make sure to have the [graphql-express-server](graphql-express-server) running locally on port 1337.
+Lazystart
 
-Start client app:
-
-    npm start
-
-
+    git clone git@github.com:krynv/react-graphql-client && npm i && npm start
