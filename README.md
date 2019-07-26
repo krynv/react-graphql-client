@@ -1,5 +1,7 @@
 # A very basic example of how to consume a GraphQL API in React
 
+[![CircleCI](https://circleci.com/gh/krynv/react-graphql-client.svg?style=svg)](https://circleci.com/gh/krynv/react-graphql-client)
+
 This extremely basic React Apollo client displays information retrieved from a GraphQL express server. 
 Designed to work alongside the [graphql-express-server](https://github.com/krynv/graphql-express-server) application. 
 
