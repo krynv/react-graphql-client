@@ -16,7 +16,7 @@
     "graphql-tag": "^2.10.3",
     "jquery": "^3.4.1",
     "popper.js": "^1.16.1",
-    "react": "^16.13.0",
+    "react": "^16.13.1",
     "react-apollo": "^3.0.0",
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.1",
