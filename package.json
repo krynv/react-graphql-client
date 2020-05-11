@@ -10,7 +10,7 @@
     "name": "Vitaliy Krynytskyy"
   },
   "dependencies": {
-    "apollo-boost": "^0.4.7",
+    "apollo-boost": "^0.4.8",
     "bootstrap": "^4.4.1",
     "graphql": "^14.6.0",
     "graphql-tag": "^2.10.3",
